@@ -233,7 +233,7 @@ Ship with clarity, performance, and maintainability.
 [![GitHub](https://img.shields.io/badge/GitHub-Dibya0912-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibya0912)
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibya0912?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dibya_Ranjan_Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibya-ranjan-pradhan-61b75b365/)
-[![Email](https://img.shields.io/badge/Email-dibya.ranjan.pradhan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-pradhandibya0912%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhandibya0912@gmail.com)
 
 </div>
 
